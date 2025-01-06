@@ -1,1 +1,1 @@
-# bord
+# board
